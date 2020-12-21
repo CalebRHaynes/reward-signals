@@ -1,161 +1,161 @@
-onset,duration,trial_type,choice_RT,partner_RT,points,trialn
-4.782996853950864,0.5423802385848829,partner-social_choice-choice_pentagon,0.5423802385848829,,,1
-8.766013016444049,1.5,partner-social_feedback-informative,,,65.0,2
-15.265698704096847,0.7511874936230925,partner-social_feedback-partner,,0.7511874936230925,,3
-23.282536630461887,1.5,partner-social_feedback-affective,,,,4
-28.782407724002038,0.5936060201693181,partner-non_social_choice-choice_pentagon,0.5936060201693181,,,5
-32.765201911399345,1.5,partner-non_social_feedback-informative,,,41.0,6
-37.26494354994111,0.9316258194703549,partner-non_social_feedback-partner,,0.9316258194703549,,7
-45.28196322527265,1.5,partner-non_social_feedback-affective,,,,8
-50.031727810992834,0.4515697515594184,partner-non_social_choice-choice_pentagon,0.4515697515594184,,,9
-55.01451175901184,1.5,partner-non_social_feedback-informative,,,61.0,10
-61.51437407594175,1.4605957636035782,partner-non_social_feedback-partner,,1.4605957636035782,,11
-67.53127234150088,1.5,partner-non_social_feedback-affective,,,,12
-72.28093745897377,0.3427584373393984,partner-non_social_choice-choice_pentagon,0.3427584373393984,,,13
-79.2638197781639,1.5,partner-non_social_feedback-informative,,,60.0,14
-83.76349010674903,0.8779747679773209,partner-non_social_feedback-partner,,0.8779747679773209,,15
-89.78023624440084,1.5,partner-non_social_feedback-affective,,,,16
-95.28036551655303,0.6948445826924399,partner-social_choice-choice_pentagon,0.6948445826924399,,,17
-99.2632167519155,1.5,partner-social_feedback-informative,,,58.0,18
-102.7628519740606,1.18809079841958,partner-social_feedback-partner,,1.18809079841958,,19
-108.7798350801836,1.5,partner-social_feedback-affective,,,,20
-113.52967755831787,0.3770215915578774,partner-social_choice-choice_pentagon,0.3770215915578774,,,21
-120.51233936518065,1.5,partner-social_feedback-informative,,,37.0,22
-125.01212744661734,1.0082302660662208,partner-social_feedback-partner,,1.0082302660662208,,23
-130.02939176995324,1.5,partner-social_feedback-affective,,,,24
-134.0291164038135,0.4329783316470639,partner-non_social_choice-choice_pentagon,0.4329783316470639,,,25
-138.01185464032187,1.5,partner-non_social_feedback-informative,,,50.0,26
-0.0,0.0,partner-non_social_feedback-partner,,0.0,,27
-0.0,1.5,partner-non_social_feedback-affective,,,,28
-152.77829515081342,0.3794146805626042,partner-non_social_choice-choice_pentagon,0.3794146805626042,,,29
-159.761082024369,1.5,partner-non_social_feedback-informative,,,53.0,30
-163.2609150859321,1.370823110715719,partner-non_social_feedback-partner,,1.370823110715719,,31
-168.27802143028748,1.5,partner-non_social_feedback-affective,,,,32
-172.27769047895072,0.4105650637529834,partner-social_choice-choice_pentagon,0.4105650637529834,,,33
-176.2610726992207,1.5,partner-social_feedback-informative,,,52.0,34
-179.76037843279755,1.4818347942123182,partner-social_feedback-partner,,1.4818347942123182,,35
-184.79403453815482,1.5,partner-social_feedback-affective,,,,36
-189.52746658397155,0.3763190970621508,partner-non_social_choice-choice_pentagon,0.3763190970621508,,,37
-194.52674031949073,1.5,partner-non_social_feedback-informative,,,51.0,38
-198.02662238379295,1.1429750001916543,partner-non_social_feedback-partner,,1.1429750001916543,,39
-204.04362962559344,1.5,partner-non_social_feedback-affective,,,,40
-208.0432778298077,0.24399926715295805,partner-social_choice-choice_pentagon,0.24399926715295805,,,41
-215.02618135913872,1.5,partner-social_feedback-informative,,,51.0,42
-218.52578184053573,1.046268093987237,partner-social_feedback-partner,,1.046268093987237,,43
-226.54313502704827,1.5,partner-social_feedback-affective,,,,44
-,,partner-non_social_choice-choice_pentagon_catch,0.0,,,45
-0.0,1.5,partner-non_social_feedback-informative_catch,,,55.0,46
-231.2755435007193,1.103156251816927,partner-non_social_feedback-partner_catch,,1.103156251816927,,47
-239.29210679232844,1.5,partner-non_social_feedback-affective_catch,,,,48
-250.54191727240502,0.3872159898132849,partner-social_choice-choice_pentagon,0.3872159898132849,,,49
-254.52475717131347,1.5,partner-social_feedback-informative,,,57.0,50
-258.02438361684835,1.165694718053146,partner-social_feedback-partner,,1.165694718053146,,51
-263.0417130333758,1.5,partner-social_feedback-affective,,,,52
-267.04112426911894,0.4348813932574558,partner-social_choice-choice_pentagon,0.4348813932574558,,,53
-271.02431230689166,1.5,partner-social_feedback-informative,,,61.0,54
-274.52403163821646,1.824576775407877,partner-social_feedback-partner,,1.824576775407877,,55
-279.5411025104395,1.5,partner-social_feedback-affective,,,,56
-284.29081845911236,0.3244994315314216,partner-social_choice-choice_pentagon,0.3244994315314216,,,57
-289.2736111837416,1.5,partner-social_feedback-informative,,,59.0,58
-0.0,0.0,partner-social_feedback-partner,,0.0,,59
-0.0,1.5,partner-social_feedback-affective,,,,60
-302.7903249576438,0.4896222071638476,partner-non_social_choice-choice_pentagon,0.4896222071638476,,,61
-306.77289497579295,1.5,partner-non_social_feedback-informative,,,56.0,62
-310.27306886237966,1.2387040457615512,partner-non_social_feedback-partner,,1.2387040457615512,,63
-315.28990349751575,1.5,partner-non_social_feedback-affective,,,,64
-319.28988813844813,0.4516414272084148,partner-non_social_choice-choice_pentagon,0.4516414272084148,,,65
-324.27258870867166,1.5,partner-non_social_feedback-informative,,,52.0,66
-328.77241518777737,1.231880597145846,partner-non_social_feedback-partner,,1.231880597145846,,67
-333.7893299094804,1.5,partner-non_social_feedback-affective,,,,68
-339.28899658114466,0.4911325154748738,partner-social_choice-choice_pentagon,0.4911325154748738,,,69
-343.2719860481156,1.5,partner-social_feedback-informative,,,53.0,70
-346.77179204846465,1.3619196055205975,partner-social_feedback-partner,,1.3619196055205975,,71
-352.7890618571819,1.5,partner-social_feedback-affective,,,,72
-356.7886175412986,0.4709229080858677,partner-social_choice-choice_pentagon,0.4709229080858677,,,73
-361.7712800795453,1.5,partner-social_feedback-informative,,,56.0,74
-365.2710666982139,1.4671676160642164,partner-social_feedback-partner,,1.4671676160642164,,75
-370.2883003034148,1.5,partner-social_feedback-affective,,,,76
-374.2878530619946,0.6033034428814972,partner-social_choice-choice_pentagon,0.6033034428814972,,,77
-378.27074306071836,1.5,partner-social_feedback-informative,,,59.0,78
-384.77053114215516,1.3291883354463607,partner-social_feedback-partner,,1.3291883354463607,,79
-390.7875738560879,1.5,partner-social_feedback-affective,,,,80
-394.7873580977575,0.5642519165007798,partner-non_social_choice-choice_pentagon,0.5642519165007798,,,81
-399.7700721985884,1.5,partner-non_social_feedback-informative,,,56.0,82
-403.2701736781419,1.2211179133901169,partner-non_social_feedback-partner,,1.2211179133901169,,83
-408.3037884602937,1.5,partner-non_social_feedback-affective,,,,84
-412.28672965590937,0.4313265004989262,partner-non_social_choice-choice_pentagon,0.4313265004989262,,,85
-416.2702270691866,1.5,partner-non_social_feedback-informative,,,57.0,86
-420.7692424432476,1.4966149712145125,partner-non_social_feedback-partner,,1.4966149712145125,,87
-425.7866215938984,1.5,partner-non_social_feedback-affective,,,,88
-429.7863268460778,0.5703421524854093,partner-social_choice-choice_pentagon,0.5703421524854093,,,89
-434.7855694977693,1.5,partner-social_feedback-informative,,,56.0,90
-441.2852690817217,1.2512461872029237,partner-social_feedback-partner,,1.2512461872029237,,91
-446.3023692093116,1.5,partner-social_feedback-affective,,,,92
-450.30217685527487,0.4049491304022013,partner-non_social_choice-choice_pentagon,0.4049491304022013,,,93
-457.28486206643083,1.5,partner-non_social_feedback-informative,,,61.0,94
-461.7847178009033,1.2861898943915548,partner-non_social_feedback-partner,,1.2861898943915548,,95
-467.80156413818617,1.5,partner-non_social_feedback-affective,,,,96
-471.8014533334845,0.35822867530623625,partner-non_social_choice-choice_pentagon,0.35822867530623625,,,97
-475.7843883123346,1.5,partner-non_social_feedback-informative,,,58.0,98
-480.28436253104286,1.1690715187664864,partner-non_social_feedback-partner,,1.1690715187664864,,99
-486.3011247591462,1.5,partner-non_social_feedback-affective,,,,100
-490.3008735286835,0.3972571630847597,partner-non_social_choice-choice_pentagon,0.3972571630847597,,,101
-494.283801193692,1.5,partner-non_social_feedback-informative,,,60.0,102
-497.7835991488151,1.1794224332347767,partner-non_social_feedback-partner,,1.1794224332347767,,103
-503.80066124442834,1.5,partner-non_social_feedback-affective,,,,104
-507.8003924607456,3.0,partner-non_social_choice-choice_star_lapse,0.5113326148702981,,,105
-511.7831354512514,1.5,partner-non_social_feedback-informative_lapse,,,0.0,106
-515.2830138586328,3.0,partner-non_social_feedback-partner_lapse,,0.0,,107
-0.0,1.5,partner-non_social_feedback-affective_lapse,,,,108
-524.2997727955077,0.4455372949246339,partner-non_social_choice-choice_pentagon,0.4455372949246339,,,109
-531.2825582062951,1.5,partner-non_social_feedback-informative,,,57.0,110
-0.0,0.0,partner-non_social_feedback-partner,,0.0,,111
-0.0,1.5,partner-non_social_feedback-affective,,,,112
-542.7991527645772,0.374688476054871,partner-social_choice-choice_pentagon,0.374688476054871,,,113
-546.7820376436122,1.5,partner-social_feedback-informative,,,36.0,114
-551.2820502599889,1.0296638448644444,partner-social_feedback-partner,,1.0296638448644444,,115
-559.2990041107446,1.5,partner-social_feedback-affective,,,,116
-564.7986711481012,0.3776567987092676,partner-non_social_choice-choice_pentagon,0.3776567987092676,,,117
-571.7814346173636,1.5,partner-non_social_feedback-informative,,,54.0,118
-575.2809945069394,1.216990346826151,partner-non_social_feedback-partner,,1.216990346826151,,119
-583.2977439358198,1.5,partner-non_social_feedback-affective,,,,120
-588.0478328904193,0.3758941628593675,partner-social_choice-choice_pentagon,0.3758941628593675,,,121
-595.0306300033535,1.5,partner-social_feedback-informative,,,50.0,122
-599.5302754648768,1.2382761860217215,partner-social_feedback-partner,,1.2382761860217215,,123
-607.5478451411042,1.5,partner-social_feedback-affective,,,,124
-611.5469184773606,0.4501329473573605,partner-social_choice-choice_pentagon,0.4501329473573605,,,125
-615.5297517938111,1.5,partner-social_feedback-informative,,,50.0,126
-619.0298814316553,1.3771803019226354,partner-social_feedback-partner,,1.3771803019226354,,127
-624.046744225082,1.5,partner-social_feedback-affective,,,,128
-628.046533586441,0.4432528164688847,partner-social_choice-choice_pentagon,0.4432528164688847,,,129
-633.0293778736541,1.5,partner-social_feedback-informative,,,46.0,130
-636.5293546522066,1.151120791386802,partner-social_feedback-partner,,1.151120791386802,,131
-641.5629570008277,1.5,partner-social_feedback-affective,,,,132
-647.045918126662,0.3803120889392631,partner-social_choice-choice_pentagon,0.3803120889392631,,,133
-652.0286483179442,1.5,partner-social_feedback-informative,,,49.0,134
-658.5284488329121,1.372570021806041,partner-social_feedback-partner,,1.372570021806041,,135
-663.5454330361113,1.5,partner-social_feedback-affective,,,,136
-,,partner-non_social_choice-choice_pentagon_catch,0.0,,,137
-0.0,1.5,partner-non_social_feedback-informative_catch,,,44.0,138
-667.5280761926774,1.2567195006399745,partner-non_social_feedback-partner_catch,,1.2567195006399745,,139
-673.5452143522442,1.5,partner-non_social_feedback-affective_catch,,,,140
-,,partner-social_choice-choice_pentagon_catch,0.0,,,141
-0.0,1.5,partner-social_feedback-informative_catch,,,28.0,142
-684.7942627300157,0.7512452729724828,partner-social_feedback-partner_catch,,0.7512452729724828,,143
-689.8115065745952,1.5,partner-social_feedback-affective_catch,,,,144
-702.3108828867439,0.5799225537298298,partner-social_choice-choice_pentagon,0.5799225537298298,,,145
-707.2936642749188,1.5,partner-social_feedback-informative,,,43.0,146
-713.7933748296332,1.0901672346476516,partner-social_feedback-partner,,1.0901672346476516,,147
-718.8105228628865,1.5,partner-social_feedback-affective,,,,148
-723.5601590906848,0.4100962464995064,partner-non_social_choice-choice_pentagon,0.4100962464995064,,,149
-728.5432461974418,1.5,partner-non_social_feedback-informative,,,26.0,150
-732.042562536089,1.2176229941333077,partner-non_social_feedback-partner,,1.2176229941333077,,151
-737.0601267269353,1.5,partner-non_social_feedback-affective,,,,152
-741.0592512600838,0.4385269776530549,partner-non_social_choice-choice_pentagon,0.4385269776530549,,,153
-745.0424243044812,1.5,partner-non_social_feedback-informative,,,38.0,154
-751.5420858564563,0.987553669884619,partner-non_social_feedback-partner,,0.987553669884619,,155
-757.55876397538,1.5,partner-non_social_feedback-affective,,,,156
-763.0589016584503,0.2763187679393013,partner-social_choice-choice_pentagon,0.2763187679393013,,,157
-767.0417766637987,1.5,partner-social_feedback-informative,,,37.0,158
-773.5414875842047,1.110686948924922,partner-social_feedback-partner,,1.110686948924922,,159
-778.5583723191571,1.5,partner-social_feedback-affective,,,,160
+onset	duration	trial_type	choice_RT	partner_RT	points	trialn
+4.782996853950864	0.5423802385848829	partner-social_choice-choice_pentagon	0.5423802385848829			1
+8.766013016444049	1.5	partner-social_feedback-informative			65.0	2
+15.265698704096847	0.7511874936230925	partner-social_feedback-partner		0.7511874936230925		3
+23.282536630461887	1.5	partner-social_feedback-affective				4
+28.782407724002038	0.5936060201693181	partner-non_social_choice-choice_pentagon	0.5936060201693181			5
+32.765201911399345	1.5	partner-non_social_feedback-informative			41.0	6
+37.26494354994111	0.9316258194703549	partner-non_social_feedback-partner		0.9316258194703549		7
+45.28196322527265	1.5	partner-non_social_feedback-affective				8
+50.031727810992834	0.4515697515594184	partner-non_social_choice-choice_pentagon	0.4515697515594184			9
+55.01451175901184	1.5	partner-non_social_feedback-informative			61.0	10
+61.51437407594175	1.4605957636035782	partner-non_social_feedback-partner		1.4605957636035782		11
+67.53127234150088	1.5	partner-non_social_feedback-affective				12
+72.28093745897377	0.3427584373393984	partner-non_social_choice-choice_pentagon	0.3427584373393984			13
+79.2638197781639	1.5	partner-non_social_feedback-informative			60.0	14
+83.76349010674903	0.8779747679773209	partner-non_social_feedback-partner		0.8779747679773209		15
+89.78023624440084	1.5	partner-non_social_feedback-affective				16
+95.28036551655303	0.6948445826924399	partner-social_choice-choice_pentagon	0.6948445826924399			17
+99.2632167519155	1.5	partner-social_feedback-informative			58.0	18
+102.7628519740606	1.18809079841958	partner-social_feedback-partner		1.18809079841958		19
+108.7798350801836	1.5	partner-social_feedback-affective				20
+113.52967755831787	0.3770215915578774	partner-social_choice-choice_pentagon	0.3770215915578774			21
+120.51233936518065	1.5	partner-social_feedback-informative			37.0	22
+125.01212744661734	1.0082302660662208	partner-social_feedback-partner		1.0082302660662208		23
+130.02939176995324	1.5	partner-social_feedback-affective				24
+134.0291164038135	0.4329783316470639	partner-non_social_choice-choice_pentagon	0.4329783316470639			25
+138.01185464032187	1.5	partner-non_social_feedback-informative			50.0	26
+0.0	0.0	partner-non_social_feedback-partner		0.0		27
+0.0	1.5	partner-non_social_feedback-affective				28
+152.77829515081342	0.3794146805626042	partner-non_social_choice-choice_pentagon	0.3794146805626042			29
+159.761082024369	1.5	partner-non_social_feedback-informative			53.0	30
+163.2609150859321	1.370823110715719	partner-non_social_feedback-partner		1.370823110715719		31
+168.27802143028748	1.5	partner-non_social_feedback-affective				32
+172.27769047895072	0.4105650637529834	partner-social_choice-choice_pentagon	0.4105650637529834			33
+176.2610726992207	1.5	partner-social_feedback-informative			52.0	34
+179.76037843279755	1.4818347942123182	partner-social_feedback-partner		1.4818347942123182		35
+184.79403453815482	1.5	partner-social_feedback-affective				36
+189.52746658397155	0.3763190970621508	partner-non_social_choice-choice_pentagon	0.3763190970621508			37
+194.52674031949073	1.5	partner-non_social_feedback-informative			51.0	38
+198.02662238379295	1.1429750001916543	partner-non_social_feedback-partner		1.1429750001916543		39
+204.04362962559344	1.5	partner-non_social_feedback-affective				40
+208.0432778298077	0.24399926715295805	partner-social_choice-choice_pentagon	0.24399926715295805			41
+215.02618135913872	1.5	partner-social_feedback-informative			51.0	42
+218.52578184053573	1.046268093987237	partner-social_feedback-partner		1.046268093987237		43
+226.54313502704827	1.5	partner-social_feedback-affective				44
+		partner-non_social_choice-choice_pentagon_catch	0.0			45
+0.0	1.5	partner-non_social_feedback-informative_catch			55.0	46
+231.2755435007193	1.103156251816927	partner-non_social_feedback-partner_catch		1.103156251816927		47
+239.29210679232844	1.5	partner-non_social_feedback-affective_catch				48
+250.54191727240502	0.3872159898132849	partner-social_choice-choice_pentagon	0.3872159898132849			49
+254.52475717131347	1.5	partner-social_feedback-informative			57.0	50
+258.02438361684835	1.165694718053146	partner-social_feedback-partner		1.165694718053146		51
+263.0417130333758	1.5	partner-social_feedback-affective				52
+267.04112426911894	0.4348813932574558	partner-social_choice-choice_pentagon	0.4348813932574558			53
+271.02431230689166	1.5	partner-social_feedback-informative			61.0	54
+274.52403163821646	1.824576775407877	partner-social_feedback-partner		1.824576775407877		55
+279.5411025104395	1.5	partner-social_feedback-affective				56
+284.29081845911236	0.3244994315314216	partner-social_choice-choice_pentagon	0.3244994315314216			57
+289.2736111837416	1.5	partner-social_feedback-informative			59.0	58
+0.0	0.0	partner-social_feedback-partner		0.0		59
+0.0	1.5	partner-social_feedback-affective				60
+302.7903249576438	0.4896222071638476	partner-non_social_choice-choice_pentagon	0.4896222071638476			61
+306.77289497579295	1.5	partner-non_social_feedback-informative			56.0	62
+310.27306886237966	1.2387040457615512	partner-non_social_feedback-partner		1.2387040457615512		63
+315.28990349751575	1.5	partner-non_social_feedback-affective				64
+319.28988813844813	0.4516414272084148	partner-non_social_choice-choice_pentagon	0.4516414272084148			65
+324.27258870867166	1.5	partner-non_social_feedback-informative			52.0	66
+328.77241518777737	1.231880597145846	partner-non_social_feedback-partner		1.231880597145846		67
+333.7893299094804	1.5	partner-non_social_feedback-affective				68
+339.28899658114466	0.4911325154748738	partner-social_choice-choice_pentagon	0.4911325154748738			69
+343.2719860481156	1.5	partner-social_feedback-informative			53.0	70
+346.77179204846465	1.3619196055205975	partner-social_feedback-partner		1.3619196055205975		71
+352.7890618571819	1.5	partner-social_feedback-affective				72
+356.7886175412986	0.4709229080858677	partner-social_choice-choice_pentagon	0.4709229080858677			73
+361.7712800795453	1.5	partner-social_feedback-informative			56.0	74
+365.2710666982139	1.4671676160642164	partner-social_feedback-partner		1.4671676160642164		75
+370.2883003034148	1.5	partner-social_feedback-affective				76
+374.2878530619946	0.6033034428814972	partner-social_choice-choice_pentagon	0.6033034428814972			77
+378.27074306071836	1.5	partner-social_feedback-informative			59.0	78
+384.77053114215516	1.3291883354463607	partner-social_feedback-partner		1.3291883354463607		79
+390.7875738560879	1.5	partner-social_feedback-affective				80
+394.7873580977575	0.5642519165007798	partner-non_social_choice-choice_pentagon	0.5642519165007798			81
+399.7700721985884	1.5	partner-non_social_feedback-informative			56.0	82
+403.2701736781419	1.2211179133901169	partner-non_social_feedback-partner		1.2211179133901169		83
+408.3037884602937	1.5	partner-non_social_feedback-affective				84
+412.28672965590937	0.4313265004989262	partner-non_social_choice-choice_pentagon	0.4313265004989262			85
+416.2702270691866	1.5	partner-non_social_feedback-informative			57.0	86
+420.7692424432476	1.4966149712145125	partner-non_social_feedback-partner		1.4966149712145125		87
+425.7866215938984	1.5	partner-non_social_feedback-affective				88
+429.7863268460778	0.5703421524854093	partner-social_choice-choice_pentagon	0.5703421524854093			89
+434.7855694977693	1.5	partner-social_feedback-informative			56.0	90
+441.2852690817217	1.2512461872029237	partner-social_feedback-partner		1.2512461872029237		91
+446.3023692093116	1.5	partner-social_feedback-affective				92
+450.30217685527487	0.4049491304022013	partner-non_social_choice-choice_pentagon	0.4049491304022013			93
+457.28486206643083	1.5	partner-non_social_feedback-informative			61.0	94
+461.7847178009033	1.2861898943915548	partner-non_social_feedback-partner		1.2861898943915548		95
+467.80156413818617	1.5	partner-non_social_feedback-affective				96
+471.8014533334845	0.35822867530623625	partner-non_social_choice-choice_pentagon	0.35822867530623625			97
+475.7843883123346	1.5	partner-non_social_feedback-informative			58.0	98
+480.28436253104286	1.1690715187664864	partner-non_social_feedback-partner		1.1690715187664864		99
+486.3011247591462	1.5	partner-non_social_feedback-affective				100
+490.3008735286835	0.3972571630847597	partner-non_social_choice-choice_pentagon	0.3972571630847597			101
+494.283801193692	1.5	partner-non_social_feedback-informative			60.0	102
+497.7835991488151	1.1794224332347767	partner-non_social_feedback-partner		1.1794224332347767		103
+503.80066124442834	1.5	partner-non_social_feedback-affective				104
+507.8003924607456	3.0	partner-non_social_choice-choice_star_lapse	0.5113326148702981			105
+511.7831354512514	1.5	partner-non_social_feedback-informative_lapse			0.0	106
+515.2830138586328	3.0	partner-non_social_feedback-partner_lapse		0.0		107
+0.0	1.5	partner-non_social_feedback-affective_lapse				108
+524.2997727955077	0.4455372949246339	partner-non_social_choice-choice_pentagon	0.4455372949246339			109
+531.2825582062951	1.5	partner-non_social_feedback-informative			57.0	110
+0.0	0.0	partner-non_social_feedback-partner		0.0		111
+0.0	1.5	partner-non_social_feedback-affective				112
+542.7991527645772	0.374688476054871	partner-social_choice-choice_pentagon	0.374688476054871			113
+546.7820376436122	1.5	partner-social_feedback-informative			36.0	114
+551.2820502599889	1.0296638448644444	partner-social_feedback-partner		1.0296638448644444		115
+559.2990041107446	1.5	partner-social_feedback-affective				116
+564.7986711481012	0.3776567987092676	partner-non_social_choice-choice_pentagon	0.3776567987092676			117
+571.7814346173636	1.5	partner-non_social_feedback-informative			54.0	118
+575.2809945069394	1.216990346826151	partner-non_social_feedback-partner		1.216990346826151		119
+583.2977439358198	1.5	partner-non_social_feedback-affective				120
+588.0478328904193	0.3758941628593675	partner-social_choice-choice_pentagon	0.3758941628593675			121
+595.0306300033535	1.5	partner-social_feedback-informative			50.0	122
+599.5302754648768	1.2382761860217215	partner-social_feedback-partner		1.2382761860217215		123
+607.5478451411042	1.5	partner-social_feedback-affective				124
+611.5469184773606	0.4501329473573605	partner-social_choice-choice_pentagon	0.4501329473573605			125
+615.5297517938111	1.5	partner-social_feedback-informative			50.0	126
+619.0298814316553	1.3771803019226354	partner-social_feedback-partner		1.3771803019226354		127
+624.046744225082	1.5	partner-social_feedback-affective				128
+628.046533586441	0.4432528164688847	partner-social_choice-choice_pentagon	0.4432528164688847			129
+633.0293778736541	1.5	partner-social_feedback-informative			46.0	130
+636.5293546522066	1.151120791386802	partner-social_feedback-partner		1.151120791386802		131
+641.5629570008277	1.5	partner-social_feedback-affective				132
+647.045918126662	0.3803120889392631	partner-social_choice-choice_pentagon	0.3803120889392631			133
+652.0286483179442	1.5	partner-social_feedback-informative			49.0	134
+658.5284488329121	1.372570021806041	partner-social_feedback-partner		1.372570021806041		135
+663.5454330361113	1.5	partner-social_feedback-affective				136
+		partner-non_social_choice-choice_pentagon_catch	0.0			137
+0.0	1.5	partner-non_social_feedback-informative_catch			44.0	138
+667.5280761926774	1.2567195006399745	partner-non_social_feedback-partner_catch		1.2567195006399745		139
+673.5452143522442	1.5	partner-non_social_feedback-affective_catch				140
+		partner-social_choice-choice_pentagon_catch	0.0			141
+0.0	1.5	partner-social_feedback-informative_catch			28.0	142
+684.7942627300157	0.7512452729724828	partner-social_feedback-partner_catch		0.7512452729724828		143
+689.8115065745952	1.5	partner-social_feedback-affective_catch				144
+702.3108828867439	0.5799225537298298	partner-social_choice-choice_pentagon	0.5799225537298298			145
+707.2936642749188	1.5	partner-social_feedback-informative			43.0	146
+713.7933748296332	1.0901672346476516	partner-social_feedback-partner		1.0901672346476516		147
+718.8105228628865	1.5	partner-social_feedback-affective				148
+723.5601590906848	0.4100962464995064	partner-non_social_choice-choice_pentagon	0.4100962464995064			149
+728.5432461974418	1.5	partner-non_social_feedback-informative			26.0	150
+732.042562536089	1.2176229941333077	partner-non_social_feedback-partner		1.2176229941333077		151
+737.0601267269353	1.5	partner-non_social_feedback-affective				152
+741.0592512600838	0.4385269776530549	partner-non_social_choice-choice_pentagon	0.4385269776530549			153
+745.0424243044812	1.5	partner-non_social_feedback-informative			38.0	154
+751.5420858564563	0.987553669884619	partner-non_social_feedback-partner		0.987553669884619		155
+757.55876397538	1.5	partner-non_social_feedback-affective				156
+763.0589016584503	0.2763187679393013	partner-social_choice-choice_pentagon	0.2763187679393013			157
+767.0417766637987	1.5	partner-social_feedback-informative			37.0	158
+773.5414875842047	1.110686948924922	partner-social_feedback-partner		1.110686948924922		159
+778.5583723191571	1.5	partner-social_feedback-affective				160
