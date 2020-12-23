@@ -142,22 +142,22 @@ def col_name(df):
 #maybe include size of points in aff
 #def split_aff_columns(df):
 
-    def label_aff_social (row):
-        if row['prev_is_social'] == 1 :
-            return row['aff_feedback_prev']
-        else:
-            return 0
+    #def label_aff_social (row):
+    #    if row['prev_is_social'] == 1 :
+    #        return row['aff_feedback_prev']
+    #    else:
+    #        return 0
 
-    def label_aff_nonsocial (row):
-        if row['prev_is_social'] == 0 :
-            return row['aff_feedback_prev']
-        else:
-            return 0
+    #def label_aff_nonsocial (row):
+    #    if row['prev_is_social'] == 0 :
+    #        return row['aff_feedback_prev']
+    #    else:
+    #        return 0
 
-    df['aff_feedback_prev_social'] = df.apply (lambda row: label_aff_social(row), axis=1)
-    df['aff_feedback_prev_nonsocial'] = df.apply (lambda row: label_aff_nonsocial(row), axis=1)
+    #df['aff_feedback_prev_social'] = df.apply (lambda row: label_aff_social(row), axis=1)
+    #df['aff_feedback_prev_nonsocial'] = df.apply (lambda row: label_aff_nonsocial(row), axis=1)
 
-    return df
+    #return df
 
 def make_derived_df(matfiles, write=False):
     """
