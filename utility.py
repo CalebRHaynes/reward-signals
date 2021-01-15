@@ -139,26 +139,6 @@ def col_name(df):
 
     return df.rename(columns = renamed)
 
-#maybe include size of points in aff
-#def split_aff_columns(df):
-
-    #def label_aff_social (row):
-    #    if row['prev_is_social'] == 1 :
-    #        return row['aff_feedback_prev']
-    #    else:
-    #        return 0
-
-    #def label_aff_nonsocial (row):
-    #    if row['prev_is_social'] == 0 :
-    #        return row['aff_feedback_prev']
-    #    else:
-    #        return 0
-
-    #df['aff_feedback_prev_social'] = df.apply (lambda row: label_aff_social(row), axis=1)
-    #df['aff_feedback_prev_nonsocial'] = df.apply (lambda row: label_aff_nonsocial(row), axis=1)
-
-    #return df
-
 def make_derived_df(matfiles, write=False):
     """
     Omnibus function for creating a derived dataframe
@@ -183,3 +163,59 @@ def make_derived_df(matfiles, write=False):
         derived_df.to_csv(f"data_csv/sub-{subject[0][5:9]}.csv")
 
     return df
+
+#List of PANAS words used during the ratings portion of the task
+
+PANAS_valence = {'pos' : ['interested',
+                          'excited',
+                          'attentive',
+                          'strong',
+                          'enthusiastic',
+                          'proud',
+                          'alert',
+                          'active',
+                          'inspired',
+                          'determined'
+                         ],
+                 'neg' : ['distressed',
+                          'upset',
+                          'ashamed',
+                          'guilty',
+                          'scared',
+                          'hostile',
+                          'jittery',
+                          'irritable',
+                          'nervous',
+                          'afraid'
+                         ]
+                }
+
+#Explicitly call dictionary items to find word valence
+def word_val(word):
+    if [k for k, v in PANAS_valence.items() if word in v][0] == 'neg':
+        return 0
+    elif [k for k, v in PANAS_valence.items() if word in v][0] == 'pos':
+        return 1
+    else:
+        raise Exception('Word not in PANAS dictionary')
+
+def catch_ratings(subject):
+
+    df = subject.catches
+    df = df.loc[:, ['rating',
+                    'partner',
+                    'is_catch',
+                    'soc_win',
+                    'Npoints',
+                    'word',
+]]
+
+    #subset to rating trials
+    df = df[df['is_catch'] != 0 ]
+    
+    #make word valence column based on word
+    df['word_valence'] = df.apply(lambda row: word_val(row.word), axis=1)
+        
+    return df
+
+
